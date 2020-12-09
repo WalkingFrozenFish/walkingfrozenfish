@@ -1,6 +1,7 @@
+![I'm a novice front-end developer](https://github.com/WalkingFrozenFish/walkingfrozenfish/blob/main/4.png)
+
 ### Hi there 👋, my name is Oleg
 #### I'm a novice front-end developer
-![I'm a novice front-end developer](https://github.com/WalkingFrozenFish/walkingfrozenfish/blob/main/4.png)
 
 I create small landing pages using a combination of HTML and CSS. Here I post the results of my work.
 
