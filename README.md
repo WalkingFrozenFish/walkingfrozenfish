@@ -8,8 +8,6 @@ I create small landing pages using a combination of HTML and CSS. Here I post th
 
 Skills: HTML / CSS / JS
 
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WalkingFrozenFish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/frozenbit13/?hl=ru/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/id194083267)  
 
