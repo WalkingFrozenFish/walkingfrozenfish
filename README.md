@@ -12,4 +12,9 @@ I develop small custom landing pages. Here I post the results of my work.
 [<img src='https://github.com/WalkingFrozenFish/walkingfrozenfish/blob/main/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/frozenbit13/?hl=ru/)
 [<img src='https://github.com/WalkingFrozenFish/walkingfrozenfish/blob/main/icons/vk.svg' alt='vk' height='20'>](https://vk.com/id194083267)  
 
-![WalkingFrozenFish's github stats](https://github-readme-stats.vercel.app/api?username=walkingfrozenfish&theme=merko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkingfrozenfish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
