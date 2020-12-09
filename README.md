@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Oleg
 #### I'm a novice front-end developer
 ![I'm a novice front-end developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
