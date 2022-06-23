@@ -21,6 +21,8 @@ I am developing web applications on the MERN stack.
 
 [<img src="./images/github.png" height=16> My GitHub profile](https://github.com/WalkingFrozenFish) 
 
+<img src="./images/dog.webp" align="right" width="250px">
+
 [<img src="./images/linkedin.png" height=16> My LinkedIn](https://www.linkedin.com/in/oleg-chachin-5213aa199/) 
 
 [<img src="./images/instagram.png" height=16> My Instagram](https://www.instagram.com/frozenbit13/?hl=ru/) 
@@ -28,9 +30,9 @@ I am developing web applications on the MERN stack.
 [<img src="./images/vk.png" height=16> My VK profile](https://vk.com/id194083267)
 
 
-<div style="position: relative; top: -60px">
-<img src="./images/dog.webp" align="right" width="150px">
-</div>
+<!--   <img src="./images/dog.webp" align="right" width="150px"> -->
+
+
 
 <!-- https://www.flaticon.com/packs/social-15 -->
 <!-- Icons -->
