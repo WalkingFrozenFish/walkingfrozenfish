@@ -27,5 +27,7 @@ I am developing web applications on the MERN stack.
 
 [<img src="./images/vk.png" height=16> My VK profile](https://vk.com/id194083267) 
 
+<img src="./images/dog.webp" align="right" width="150px">
+
 <!-- https://www.flaticon.com/packs/social-15 -->
 <!-- Icons -->
