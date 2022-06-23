@@ -25,9 +25,12 @@ I am developing web applications on the MERN stack.
 
 [<img src="./images/instagram.png" height=16> My Instagram](https://www.instagram.com/frozenbit13/?hl=ru/) 
 
-[<img src="./images/vk.png" height=16> My VK profile](https://vk.com/id194083267) 
+[<img src="./images/vk.png" height=16> My VK profile](https://vk.com/id194083267)
 
-<img src="./images/dog.webp" style="position: relative; top: -60px" align="right" width="150px">
+
+<div style="position: relative; top: -60px">
+<img src="./images/dog.webp" align="right" width="150px">
+</div>
 
 <!-- https://www.flaticon.com/packs/social-15 -->
 <!-- Icons -->
