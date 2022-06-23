@@ -1,6 +1,6 @@
 ![I'm a front-end developer](./images/4.png)
 
-# Hello and welcome, nice to meet you 
+# Hello and welcome, nice to meet you :space_invader:
 
 Welcome to my profile. My name is Oleg and I am a front-end developer from Kazakhstan. 
 I am developing web applications on the MERN stack.
