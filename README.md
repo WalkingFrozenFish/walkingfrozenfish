@@ -1,4 +1,4 @@
-![I'm a front-end developer](./images/banner.png)
+![I'm a front-end developer](./images/4.png)
 
 # Hello and welcome, nice to meet you 
 
