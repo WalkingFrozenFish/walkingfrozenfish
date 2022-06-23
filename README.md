@@ -32,7 +32,6 @@ I am developing web applications on the MERN stack.
 
 <!--   <img src="./images/dog.webp" align="right" width="150px"> -->
 
-
-
+<!-- https://stickers.cloud/en/pack/doge -->
 <!-- https://www.flaticon.com/packs/social-15 -->
 <!-- Icons -->
