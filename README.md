@@ -11,7 +11,7 @@ I am developing web applications on the MERN stack.
 | -------- | ------------- | --------- | --------------------- |
 |HTML      | Sass          | MongoDB   | React                 |
 |CSS       |               |           | NodeJS                |
-|JavaScript|               |           |                       |
+|JavaScript|               |           | TypeScript            |
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkingfrozenfish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
