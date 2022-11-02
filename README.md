@@ -9,8 +9,8 @@ I am developing web applications on the MERN stack.
 
 | Standart | Preprocessors | DataBases | Library/Framework/etc |
 | -------- | ------------- | --------- | --------------------- |
-|HTML      | Sass          | MongoDB   | React                 |
-|CSS       |               |           | NodeJS                |
+|HTML      | SASS          | MongoDB   | React                 |
+|CSS       | SCSS          |           | NodeJS                |
 |JavaScript|               |           | TypeScript            |
 
 
