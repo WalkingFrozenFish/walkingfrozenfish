@@ -25,9 +25,9 @@ I am developing web applications on the MERN stack.
 
 [<img src="./images/linkedin.png" height=16> My LinkedIn](https://www.linkedin.com/in/oleg-chachin-5213aa199/) 
 
-[<img src="./images/instagram.png" height=16> My Instagram](https://www.instagram.com/frozenbit13/?hl=ru/) 
+[<img src="./images/instagram.png" height=16> My Instagram](https://www.instagram.com/) 
 
-[<img src="./images/vk.png" height=16> My VK profile](https://vk.com/id194083267)
+[<img src="./images/vk.png" height=16> My VK profile](https://vk.com/)
 
 
 <!--   <img src="./images/dog.webp" align="right" width="150px"> -->
